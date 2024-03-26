@@ -1,0 +1,2 @@
+# IssueTracker
+Next JS, Prisma
